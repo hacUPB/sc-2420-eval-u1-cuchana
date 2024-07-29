@@ -50,7 +50,7 @@ La unidad central de procesamiento es parte del hardware,es el componente princi
 - Unidad de gestion de memoria: Permite la interaccion rapida entre la RAM y la CPU, gestiona y traduce las direcciones de la memoria virtual a direcciones de memoria fisica y gestiona el caché.
 - Reloj: Este genera un pulso constante a una frecuencia específica y sincroniza las operaciones internas, determina cuantas instrucciones puede ejecutar la CPU por segundo. 
 ## 3. Mapa conceptual
-![image](https://www.canva.com/design/DAGL--NYLCY/l2M_n9i3kEh13DpOV2SV7w/edit)
+![image](c:\Users\lucia\Downloads\Gráfica Mapa Conceptual Simple Colorido.jpg)
 ## 5. Audio
 
 
