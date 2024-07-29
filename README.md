@@ -16,7 +16,7 @@
 - Caja: contiene y protege los componentes internos.
 - Tarjeta de sonido: gestiona la salida de audio, puede llegar a grabar y procesar sonido. 
 - Ventiladores y disipadores de calor: mantienen los componentes a una temperatura segura. 
-Periféricos: teclado, raton, monitor, impresora y los dispositivos usados para interactuar con la computadora.
+- Periféricos: teclado, raton, monitor, impresora y los dispositivos usados para interactuar con la computadora.
 ### Software: 
 - Sistema operativo: gestiona la interaccion del usuario y los componentes del hardware (Windows, macOS, Linux)
 - Navegador web: Google chrome, Firefox, Edge, Opera gx, Brave
@@ -51,6 +51,7 @@ La unidad central de procesamiento es parte del hardware,es el componente princi
 - Reloj: Este genera un pulso constante a una frecuencia específica y sincroniza las operaciones internas, determina cuantas instrucciones puede ejecutar la CPU por segundo. 
 ## 3. Mapa conceptual
 ![image](https://www.canva.com/design/DAGL--NYLCY/l2M_n9i3kEh13DpOV2SV7w/edit)
+## 5. Audio
 
 
 
