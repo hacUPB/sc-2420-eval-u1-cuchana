@@ -15,24 +15,30 @@ Este ejercicio lo realice con los conceptos basicos que habiamos adquirido acerc
 - Escribe un programa que calcule la suma de todos los números impares desde 0 hasta N (inclusive). El valor de N se encuentra en RAM[0] y la suma resultante debe almacenarse en RAM[1].
 
 Inicialmente realice el programa en C# para poder hacer un analisis logico de los requisitos del programa y como llevarlo a ser funcional. 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/f749bc89-27f8-4566-be7d-2a4d706ca053)
+
 Para pasarlo usaré la i como un contador, lo que mas me genero problemas fue condicionar el codigo, es una estructura un poco diferente, ademas le agregue un valor a N puesto que no sabia como dejarlo para que lo ingrese el usuario (como en c#)
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/da9a76df-201f-4066-8f58-0dac300302f4)
+
 
 La suma de los impares hasta 10 da 25 y se almacena en la RAM [1] como pedido
 Otro intento con 15: 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/1ddef114-82fb-427b-9711-d1dda8f7b907)
+
 
 ## Ejercicio 3: 
 - Escribe un programa que calcule el factorial de un número entero positivo.
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/c6eec501-b265-43de-a75d-38449e934e31)
+
 Monte el codigo de nuevo en C# y mantuve la logica del primer ejercicio pero teniendo en cuenta que es un factorial, osea, 5!= 5x4x3x2x1 
 Entonces es un bucle que sume 5 cuatro veces, almacene el nuevo resultado y lo sume 4 veces, y asi hasta que en est caso de 120. 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/06a63c93-b97c-46a4-83cf-9278a4b89263)
 Aqui puse el 5 en la posicion 8 y despues se pasa a la posicion 1 como en la siguiente imagen
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/512bb513-4b47-4f36-bf42-6b37ea05af1f)
+
 Despues entra a un bucle que verifique que el contador sea mayor que 0 para realizar la multiplicacion, y finalmente da 120 
-![alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/e24d57a7-068f-4722-8436-86df2f7078a6)
+
 
 
 
